@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Application</string>
+    <string name="connect_wifi">Kết nối Wifi</string>
+    <string name="connect_Bluetooth">Kết nối Bluetooth</string>
+    <string name="status">Trạng thái:</string>
+    <string name="ip_address">IP Address</string>
+    <string name="speed">Tốc độ</string>
+    <string name="label_speed">Tốc độ</string>
+</resources>
